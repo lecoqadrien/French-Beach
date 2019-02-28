@@ -71,6 +71,8 @@ h1{
 
 .main-image__title{
     color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
 }
 
 select{
@@ -189,3 +191,18 @@ h3{
     height: 34vh;
 }
 
+#Ecologie{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+footer{
+    height: 34px;
+    width: 100%;
+    background:rgb(0, 99, 138);
+}
+
+input{
+    height: 24px;
+    width: 200px;
+}
